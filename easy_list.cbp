@@ -34,8 +34,15 @@
 		</Compiler>
 		<Unit filename="easy_list.h" />
 		<Unit filename="itc_even_index_list.cpp" />
+		<Unit filename="itc_even_parts_list.cpp" />
+		<Unit filename="itc_positive_list.cpp" />
+		<Unit filename="itc_rev_list.cpp" />
+		<Unit filename="itc_rev_par_list.cpp" />
+		<Unit filename="itc_rshift_list.cpp" />
+		<Unit filename="itc_same_parts_list.cpp" />
+		<Unit filename="itc_sl_list.cpp" />
+		<Unit filename="itc_super_shift_list.cpp" />
 		<Unit filename="list_print.cpp" />
-		<Unit filename="main.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
