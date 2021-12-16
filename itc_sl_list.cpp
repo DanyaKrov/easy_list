@@ -7,7 +7,7 @@ int itc_sl_list(const vector <int> &mass){
             if (mass[i] > mass[i - 1])
                 count++;
         }
-    return count;
+        return count;
     }
     else
         return 0;
