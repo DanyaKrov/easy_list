@@ -30,3 +30,40 @@
 1639608541 source:c:\users\user\documents\github\easy_list\itc_rshift_list.cpp
 	"easy_list.h"
 
+1639671894 source:c:\users\danya\desktop\easy_list-main\itc_even_index_list.cpp
+	"easy_list.h"
+
+1639671082 c:\users\danya\desktop\easy_list-main\easy_list.h
+	<iostream>
+	<vector>
+
+1639671082 source:c:\users\danya\desktop\easy_list-main\itc_even_parts_list.cpp
+	"easy_list.h"
+
+1639671082 source:c:\users\danya\desktop\easy_list-main\itc_positive_list.cpp
+	"easy_list.h"
+
+1639671082 source:c:\users\danya\desktop\easy_list-main\itc_rev_list.cpp
+	"easy_list.h"
+
+1639671082 source:c:\users\danya\desktop\easy_list-main\itc_rev_par_list.cpp
+	"easy_list.h"
+
+1639671082 source:c:\users\danya\desktop\easy_list-main\itc_rshift_list.cpp
+	"easy_list.h"
+
+1639671082 source:c:\users\danya\desktop\easy_list-main\itc_same_parts_list.cpp
+	"easy_list.h"
+
+1639671082 source:c:\users\danya\desktop\easy_list-main\itc_sl_list.cpp
+	"easy_list.h"
+
+1639671082 source:c:\users\danya\desktop\easy_list-main\itc_super_shift_list.cpp
+	"easy_list.h"
+
+1639671082 source:c:\users\danya\desktop\easy_list-main\list_print.cpp
+	"easy_list.h"
+
+1639672530 source:c:\users\danya\desktop\easy_list-main\main.cpp
+	"easy_list.h"
+
