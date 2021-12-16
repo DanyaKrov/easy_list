@@ -1,7 +1,8 @@
 #include "easy_list.h"
 
 void itc_super_shift_list(vector <int> &mass, int n){
-    if (n < 0){
+    if (mass.size() != 0){
+            if (n < 0){
         itc_rev_list(mass);
         n *= -1;
         while (n != 0){
@@ -15,5 +16,6 @@ void itc_super_shift_list(vector <int> &mass, int n){
             itc_rshift_list(mass);
             n--;
         }
+    }
     }
 }
